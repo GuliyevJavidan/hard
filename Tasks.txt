@@ -1,0 +1,15 @@
+1)[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-]+$
+
+javidan.guliyev@gmail.com
+javidan-guliyev333@mail.ru
+admin_1@name.org
+info@name.az
+j-guliyev.@gmail.com
+
+
+2)^\+?\d{3,5}-?\d{2,3}-?\d{2}-?\d{2}
+
++994557776644
++99455-777-66-44
+0557776644
+055-777-66-44
